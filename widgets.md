@@ -25,7 +25,7 @@ Container(
 ### Text
 The Text widget displays a short piece of text. You can customize its style, such as font size, color, and alignment.
 
-```
+```dart
 Text(
   'Hello, Flutter!',
   style: TextStyle(fontSize: 20, color: Colors.green),
@@ -34,7 +34,7 @@ Text(
 ### Row and Column
 Row and Column widgets allow you to arrange other widgets horizontally or vertically.
 
-```
+```dart
 Row(
   children: <Widget>[
     Icon(Icons.star),

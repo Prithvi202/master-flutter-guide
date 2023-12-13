@@ -71,6 +71,7 @@ This document outlines the basic structure of a Flutter app using the MaterialAp
 
 Below is a simplified representation of the Flutter app structure in Dart code:
 
+```dart
 import 'package:flutter/material.dart';
 
 void main() {
@@ -114,6 +115,7 @@ class MyCustomWidget extends StatelessWidget {
 }
 
 // ... other classes for navigation, state management, data sources, and app logic
+
 
 
 
